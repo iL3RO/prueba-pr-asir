@@ -34,21 +34,101 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [mgo](files/mgo.md)
 
+* [jbm](files/jbm.md)
+
 * [jjg](files/jjg.md)
+
+* [jmod](files/jmod.md)
 
 * [sjs](files/sjs.md)
 
 * [adlvc](files/adlvc.md)
 
-
-
-
-
-
-
-
-
-
 * [arg](files/arg.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * [jmsa](files/jmsa.md)
