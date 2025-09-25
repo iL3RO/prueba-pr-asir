@@ -4,5 +4,4 @@ Mi **asignatura** favorita es:
 
 ### Implantación de aplicaciones web
 
-Ya que tengo a los mejores alumnos.
-
+Ya que tengo a los mejores profesores.
