@@ -24,6 +24,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [dbb](files/dbb.md)
 
+* [rmr](files/rmr.md)
+
 * [mrc](files/mrc.md)
 
 * [dvg](files/dvg.md)
@@ -34,5 +36,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [adlvc](files/adlvc.md)
 
-* [jmod](files/jmod.md)
+* [adlvc](files/adlvc.md)
 
+* [jmod](files/jmod.md)
