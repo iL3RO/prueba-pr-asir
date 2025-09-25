@@ -30,4 +30,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [mgo](files/mgo.md)
 
+* [jjc](files/jjg.md)
+
+* [adlvc](files/adlvc.md)
+
 * [epm](files/epm.md)
