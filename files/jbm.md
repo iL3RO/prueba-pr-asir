@@ -1,8 +1,10 @@
-# Mi asignatura favorita
+=======
+#ASIGNATURA
 
-**Asignatura:** Robar
-**Por qué me gusta:**  
+*Nombre:* Seguridad
 
-- Está guapo
-- Mola
-> "K dise el lokete"
+**Porque: ** 
+- Me mola mucho porque es lo que quiero estudiar en un futuro.
+- Aprendo mucho de Hacking.
+- CTF
+> "Está interesante que encima nos lo enseñe Raúl que también le gusta bastante."
