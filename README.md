@@ -36,17 +36,15 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [jjg](files/jjg.md)
 
+* [adlvc](files/adlvc.md)
+
+* [adlvc](files/adlvc.md)
+
+* [jmod](files/jmod.md)
+
 * [sjs](files/sjs.md)
 
 * [adlvc](files/adlvc.md)
 
-
-
-
-
-
-
-
-
-
 * [arg](files/arg.md)
+
