@@ -46,6 +46,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [arg](files/arg.md)
 
+<<<<<<< HEAD
 
 
 
@@ -132,3 +133,14 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 
 * [jmsa](files/jmsa.md)
+=======
+* [epm](files/epm.md)
+
+* [JMSA](/files/jmsa.md)
+
+* [srg](files/srg.md)
+
+* [pop](files/pop.md) 
+
+* [jfj](files/jfj.md)
+>>>>>>> upstream/main
